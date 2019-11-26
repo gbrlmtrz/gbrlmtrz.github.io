@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52ca3395.chunk.css",
+    "main.js": "/static/js/main.bd99ffdd.chunk.js",
+    "main.js.map": "/static/js/main.bd99ffdd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfda98c1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfda98c1.js.map",
+    "static/js/2.c207685e.chunk.js": "/static/js/2.c207685e.chunk.js",
+    "static/js/2.c207685e.chunk.js.map": "/static/js/2.c207685e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.67eb3dadd1bebdd249e58327c3db7ace.js": "/precache-manifest.67eb3dadd1bebdd249e58327c3db7ace.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.52ca3395.chunk.css.map": "/static/css/main.52ca3395.chunk.css.map",
+    "static/media/Brique.png": "/static/media/Brique.db998f45.png",
+    "static/media/Krato.png": "/static/media/Krato.72455bc0.png",
+    "static/media/Quarvy.png": "/static/media/Quarvy.9b40b2db.png",
+    "static/media/QuarvyApp.png": "/static/media/QuarvyApp.5a1b65c2.png",
+    "static/media/Vleeko Pagos.png": "/static/media/Vleeko Pagos.0bdbef7c.png",
+    "static/media/index.scss": "/static/media/sun.5a0adbd0.svg",
+    "static/media/me.png": "/static/media/me.35115bf6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfda98c1.js",
+    "static/js/2.c207685e.chunk.js",
+    "static/css/main.52ca3395.chunk.css",
+    "static/js/main.bd99ffdd.chunk.js"
+  ]
+}
